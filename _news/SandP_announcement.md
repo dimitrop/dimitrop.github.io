@@ -7,4 +7,4 @@ related_posts: false
 
 Our paper "Best of Both Worlds:
 Effective Foreign Bridge Identification in V8 Embedders for Security Analysis"
-has been accepted at [IEEE S&P '26](https://sp2026.ieee-security.org/). 
+has been accepted at [IEEE S&P '26](https://sp2026.ieee-security.org/).
