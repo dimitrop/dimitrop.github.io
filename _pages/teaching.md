@@ -19,12 +19,14 @@ nav_order: 6
 ---
 
 #### Distributed Ledger Technologies (BA286)
+
 **Department of Business Administration, National and Kapodistrian University of Athens**  
-*2024–Present*
+_2024–Present_
 
 This course provides an in-depth exploration of distributed ledger technologies and decentralized systems. Students gain both theoretical knowledge and practical skills in blockchain development and cryptographic protocols.
 
 **Topics Covered:**
+
 - Decentralized Finance (DeFi)
 - Blockchain Mechanics and Architecture
 - UTXOs and Transaction Models
@@ -35,9 +37,11 @@ This course provides an in-depth exploration of distributed ledger technologies 
 - Zero-Knowledge Proofs (SNARKs)
 
 **Course Materials:**
+
 - [Course Website](https://eclass.uoa.gr/courses/BA286/) (requires student credentials)
 
 **Courses & Resources That Inspired This Material:**
+
 - [Decentralized Finance (DeFi) Course](https://defi-learning.org/f22) - UC Berkeley
 - [Blockchain Course](https://www.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh) - YouTube lecture series by Arthur Gervais
 - [Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) - MIT OpenCourseWare
@@ -45,12 +49,14 @@ This course provides an in-depth exploration of distributed ledger technologies 
 ---
 
 #### Data Security and Privacy (BA153)
+
 **Department of Business Administration, National and Kapodistrian University of Athens**  
-*2022–Present*
+_2022–Present_
 
 This course covers fundamental and advanced topics in data security and privacy, combining theoretical foundations with hands-on security exercises. Students learn to identify threats, apply cryptographic techniques, and secure modern systems.
 
 **Topics Covered:**
+
 - Threat Modeling
 - Symmetric and Asymmetric Cryptography
 - Malleability and Cryptographic Vulnerabilities
@@ -63,25 +69,30 @@ This course covers fundamental and advanced topics in data security and privacy,
 - Malware Analysis and Prevention
 
 **Hands-on Tools:**
+
 - [DVWA (Damn Vulnerable Web Application)](https://github.com/digininja/DVWA)
 - [Bandit (OverTheWire)](https://overthewire.org/wargames/bandit/)
 
 **Course Materials:**
+
 - [Course Website](https://eclass.uoa.gr/courses/BA153/) (requires student credentials)
 
 **Courses & Resources That Inspired This Material:**
+
 - [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) - MIT OpenCourseWare
 - [Cryptography Course ](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) - Stanford University
 
 ---
 
 #### Algorithms and Business Analytics (BA132)
+
 **Department of Business Administration, National and Kapodistrian University of Athens**  
-*2021–Present*
+_2021–Present_
 
 This course introduces algorithmic thinking and data structures through real-world problems and applications. Each topic begins with practical problems and then presents algorithms to solve them, demonstrating the wide applicability of algorithmic concepts to business and everyday challenges.
 
 **Topics Covered:**
+
 - Fundamental Data Structures
 - Graphs and Graph Representations
 - Basic Cryptography
@@ -93,6 +104,7 @@ This course introduces algorithmic thinking and data structures through real-wor
 - Strongest Path Problems
 
 **Real-World Applications:**
+
 - Stock Span Problem
 - Arbitrage Detection
 - Data Compression
@@ -100,22 +112,26 @@ This course introduces algorithmic thinking and data structures through real-wor
 - And many more practical examples
 
 **Course Materials:**
+
 - [Course Website](https://eclass.uoa.gr/courses/BA132/) (requires student credentials)
 
 **Courses & Resources That Inspired This Material:**
+
 - Lectures and book by Prof. Panos Louridas: [Real-World Algorithms: A Beginner's Guide](https://www.amazon.com/Real-World-Algorithms-Beginners-Guide-Press/dp/0262035707)
 
 ---
 
 #### Introduction to Programming (BA142)
+
 **Department of Business Administration, National and Kapodistrian University of Athens**  
-*2022–Present*
+_2022–Present_
 
 An introductory course covering fundamental programming concepts using Python.
 Students learn computational thinking, problem-solving strategies,
 and develop practical coding skills from basic syntax to object-oriented programming.
 
 **Topics Covered:**
+
 - Branching and Iteration
 - String Manipulation
 - Guess and Check Algorithms
@@ -131,9 +147,11 @@ and develop practical coding skills from basic syntax to object-oriented program
 - Program Efficiency and Complexity
 
 **Course Materials:**
+
 - [Course Website](https://eclass.uoa.gr/courses/BA142/) (requires student credentials)
 
 **Courses & Resources That Inspired This Material:**
+
 - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - MIT OpenCourseWare
 
 <div style="width: 100%; height: 3px; background: linear-gradient(to right, transparent, var(--global-theme-color), transparent); margin: 3rem 0;"></div>
@@ -143,17 +161,21 @@ and develop practical coding skills from basic syntax to object-oriented program
 ---
 
 #### Introduction to Computer Science
+
 **Department of Business Administration, National and Kapodistrian University of Athens**  
-*2020–2024*
+_2020–2024_
 
 #### Introduction to Computer Science
+
 **Department of Management Science and Technology, Athens University of Economics and Business**  
-*2017–2020*
+_2017–2020_
 
 #### Software Robustness and Security
+
 **Department of Management Science and Technology, Athens University of Economics and Business**  
-*2017–2020*
+_2017–2020_
 
 #### Computer Security
+
 **Department of Informatics and Telecommunications, National and Kapodistrian University of Athens**  
-*2017–2018*
+_2017–2018_

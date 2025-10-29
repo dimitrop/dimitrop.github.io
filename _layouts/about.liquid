@@ -16,9 +16,11 @@ layout: default
 
   {% if page.header.image %}
     <div class="header-image" style="width: 100%; margin: 2rem 0;">
-      <img src="{{ page.header.image | prepend: '/assets/img/' | relative_url }}"
-           alt="Header image"
-           style="width: 100%; height: auto; max-height: 400px; object-fit: cover; border-radius: 8px;">
+      <img
+        src="{{ page.header.image | prepend: '/assets/img/' | relative_url }}"
+        alt="Header image"
+        style="width: 100%; height: auto; max-height: 400px; object-fit: cover; border-radius: 8px;"
+      >
     </div>
   {% endif %}
 

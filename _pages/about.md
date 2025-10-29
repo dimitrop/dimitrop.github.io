@@ -1,7 +1,7 @@
 ---
 header:
   image: NY.jpg
-  
+
 layout: about
 title: about
 permalink: /
