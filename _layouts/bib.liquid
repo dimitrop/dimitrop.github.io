@@ -148,21 +148,55 @@
       {% endif %}
     </div>
 
+    {% assign entrytype = "" %}
+    {% assign entrymonth = "" %}
+    {% assign entryyear = "" %}
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{ entry.journal }}</em>{% if entry.volume %}, Vol. {{ entry.volume }}{% endif %}{% if entry.number %}, No. {{ entry.number }}{% endif %}{% if entry.pages %}, pp. {{ entry.pages }}{% endif %}{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+    {% comment %} {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% if entry.series %} ({{ entry.series }}){% endif %}{% if entry.pages %}, pp. {{ entry.pages }}{% endif %}{% if entry.publisher %}, {{ entry.publisher }}{% endif %}{% endcapture %} {% endcomment %}
+      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% if entry.pages %}, pp. {{ entry.pages }}{% endif %}{% if entry.publisher %}, {{ entry.publisher }}{% endif %}{% endcapture %}
+    {% elsif entry.type == 'book' %}
+      {% capture entrytype %}{% if entry.publisher %}{{ entry.publisher }}{% endif %}{% if entry.address %}, {{ entry.address }}{% endif %}{% if entry.isbn %}, ISBN: {{ entry.isbn }}{% endif %}{% endcapture %}
     {% elsif thesis contains entry.type %}
-      {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{ entry.school }}</em>{% if entry.address %}, {{ entry.address }}{% endif %}{% endcapture %}
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
-    {% if entry.month %}
-      {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
-    {% endif %}
+      {% if entry.month %}
+          {% assign month_lower = entry.month | downcase %}
+          {% if month_lower == "jan" or month_lower == "january" %}
+            {% assign full_month = "January" %}
+          {% elsif month_lower == "feb" or month_lower == "february" %}
+            {% assign full_month = "February" %}
+          {% elsif month_lower == "mar" or month_lower == "march" %}
+            {% assign full_month = "March" %}
+          {% elsif month_lower == "apr" or month_lower == "april" %}
+            {% assign full_month = "April" %}
+          {% elsif month_lower == "may" %}
+            {% assign full_month = "May" %}
+          {% elsif month_lower == "jun" or month_lower == "june" %}
+            {% assign full_month = "June" %}
+          {% elsif month_lower == "jul" or month_lower == "july" %}
+            {% assign full_month = "July" %}
+          {% elsif month_lower == "aug" or month_lower == "august" %}
+            {% assign full_month = "August" %}
+          {% elsif month_lower == "sep" or month_lower == "september" %}
+            {% assign full_month = "September" %}
+          {% elsif month_lower == "oct" or month_lower == "october" %}
+            {% assign full_month = "October" %}
+          {% elsif month_lower == "nov" or month_lower == "november" %}
+            {% assign full_month = "November" %}
+          {% elsif month_lower == "dec" or month_lower == "december" %}
+            {% assign full_month = "December" %}
+          {% else %}
+            {% assign full_month = entry.month | capitalize %}
+          {% endif %}
+          {% capture entrymonth %}{{ " " }}{{ full_month }}{% endcapture %}
+        {% endif %}
     {% if entry.year %}
       {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
     {% endif %}
@@ -185,7 +219,7 @@
       {{ entry.note | strip }}
     </div>
 
-    <!-- Links/Buttons -->
+    <!-- Links/Buttons /Users/dimitro/Software/dimitrop.github.io/_layouts/about.liquid-->
     <div class="links">
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
