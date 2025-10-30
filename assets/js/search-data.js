@@ -83,7 +83,7 @@ ninja.data = [{
           title: 'I will serve on the program committee for CCS ‘26.',
           description: "",
           section: "News",},{id: "news-i-will-participate-in-the-public-sector-2-0-accelerating-government-and-eu-adaptation-to-fintech-and-ai-innovation-panel-at-fintech-athens-4-0",
-          title: 'I will participate in the “Public sector 2.0: Accelerating Government and EU Adaptation...',
+          title: 'I will participate in the “Public Sector 2.0: Accelerating Government and EU Adaptation...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
