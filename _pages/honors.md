@@ -12,7 +12,7 @@ Quick Navigation
 <div class="honors-navigation" style="margin-bottom: 2rem; padding: 1rem; background-color: var(--global-card-bg-color); border-radius: 8px;">
   <strong>Jump to:</strong>
   <span onclick="document.getElementById('awards').scrollIntoView({behavior: 'smooth'})" style="cursor: pointer; color: var(--global-theme-color); margin: 0 0.5rem; text-decoration: underline;">Awards</span> | 
-  <span onclick="document.getElementById('fellowships').scrollIntoView({behavior: 'smooth'})" style="cursor: pointer; color: var(--global-theme-color); margin: 0 0.5rem; text-decoration: underline;">Fellowships & Grants</span> | 
+  <span onclick="document.getElementById('fellowships').scrollIntoView({behavior: 'smooth'})" style="cursor: pointer; color: var(--global-theme-color); margin: 0 0.5rem; text-decoration: underline;">Fellowships</span> | 
   <span onclick="document.getElementById('recognitions').scrollIntoView({behavior: 'smooth'})" style="cursor: pointer; color: var(--global-theme-color); margin: 0 0.5rem; text-decoration: underline;">Other Recognitions</span>
 </div>
 
