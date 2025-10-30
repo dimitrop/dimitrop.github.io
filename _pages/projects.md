@@ -65,4 +65,5 @@ Over the years I have been involved in several EU and US funded R&D projects.
 - **[SOPRANO: Service Oriented Programmable Smart Environments for Older Europeans](http://cordis.europa.eu/project/rcn/80527_en.html)**, 2008–2010.  
   Funded by the European Commission (FP6-IST, ref. 045212).
 
-- **[SQO-OSS: Software Quality Observatory for Open Source Software](http://cordis.europa.eu/project/rcn/79362_en.html)**. 2007. Funded by the European Commission (FP6-IST, ref. 033331).
+- **[SQO-OSS: Software Quality Observatory for Open Source Software](http://cordis.europa.eu/project/rcn/79362_en.html)**. 2007.  
+  Funded by the European Commission (FP6-IST, ref. 033331).

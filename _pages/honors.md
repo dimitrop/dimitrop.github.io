@@ -60,7 +60,7 @@ Quick Navigation
 
 <div style="width: 100%; height: 3px; background: linear-gradient(to right, transparent, var(--global-theme-color), transparent); margin: 3rem 0;"></div>
 
-## <span id="fellowships">Fellowships & Grants</span>
+## <span id="fellowships">Fellowships</span>
 
 - **[Postdoctoral Research Funding Scholarship: Action II](https://www.balab.aueb.gr/action-ii2.html)**,
   November 2016.  
