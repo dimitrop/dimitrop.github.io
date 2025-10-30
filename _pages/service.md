@@ -49,7 +49,7 @@ nav_order: 3
   The IEEE/ACM International Conference on Automated Software Engineering, Research Papers Track
 - **[MSR '24](https://2024.msrconf.org/committee/msr-2024-technical-papers-program-committee)** -
   Mining Software Repositories Conference, Technical Track
-- **[FSE ''23](https://2023.esec-fse.org/committee/fse-2023-research-papers-program-committee)** -
+- **[FSE '23](https://2023.esec-fse.org/committee/fse-2023-research-papers-program-committee)** -
   The ACM Joint European Software Engineering Conference and Symposium on the Foundations
   of Software Engineering, Research Papers Track
 - **[PLDI '23](https://pldi23.sigplan.org/committee/pldi-2023-pldi-review-committee)** -
