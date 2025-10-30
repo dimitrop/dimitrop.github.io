@@ -23,15 +23,18 @@ nav_order: 6
 **Department of Business Administration, National and Kapodistrian University of Athens**  
 _2024–Present_
 
-This course provides an in-depth exploration of distributed ledger technologies and decentralized systems. Students gain both theoretical knowledge and practical skills in blockchain development and cryptographic protocols.
+This course provides an in-depth exploration of
+distributed ledger technologies and decentralized systems.
+Students gain both theoretical knowledge and practical
+skills in blockchain development and cryptographic protocols.
 
 **Topics Covered:**
 
 - Decentralized Finance (DeFi)
-- Blockchain Mechanics and Architecture
-- UTXOs and Transaction Models
+- Blockchain Mechanics
 - Consensus Mechanisms: Proof of Work and Proof of Stake
-- Ethereum Platform and Smart Contracts
+- Bitcoin and UTXOs
+- Ethereum and Smart Contracts
 - Solidity Programming
 - Smart Contract Testing and Security
 - Zero-Knowledge Proofs (SNARKs)
@@ -53,7 +56,10 @@ This course provides an in-depth exploration of distributed ledger technologies 
 **Department of Business Administration, National and Kapodistrian University of Athens**  
 _2022–Present_
 
-This course covers fundamental and advanced topics in data security and privacy, combining theoretical foundations with hands-on security exercises. Students learn to identify threats, apply cryptographic techniques, and secure modern systems.
+This course covers topics in data security and privacy,
+combining fundamental concepts with hands-on security exercises.
+Students learn to identify threats, apply cryptographic techniques,
+and secure modern systems.
 
 **Topics Covered:**
 
@@ -66,12 +72,12 @@ This course covers fundamental and advanced topics in data security and privacy,
 - User Authentication Mechanisms
 - TLS & HTTPS Protocols
 - Systems Security and Privilege Separation
-- Malware Analysis and Prevention
+- Malware Analysis
 
 **Hands-on Tools:**
 
-- [DVWA (Damn Vulnerable Web Application)](https://github.com/digininja/DVWA)
-- [Bandit (OverTheWire)](https://overthewire.org/wargames/bandit/)
+- [DVWA](https://github.com/digininja/DVWA)
+- [Bandit](https://overthewire.org/wargames/bandit/)
 
 **Course Materials:**
 
@@ -89,27 +95,31 @@ This course covers fundamental and advanced topics in data security and privacy,
 **Department of Business Administration, National and Kapodistrian University of Athens**  
 _2021–Present_
 
-This course introduces algorithmic thinking and data structures through real-world problems and applications. Each topic begins with practical problems and then presents algorithms to solve them, demonstrating the wide applicability of algorithmic concepts to business and everyday challenges.
+This course introduces algorithmic thinking and data structures
+through real-world problems and applications.
+Each topic begins with practical problems and
+then presents algorithms to solve them,
+demonstrating the wide applicability of algorithmic
+concepts to business and everyday challenges.
 
 **Topics Covered:**
 
-- Fundamental Data Structures
+- Data Structures
 - Graphs and Graph Representations
-- Basic Cryptography
 - Graph Traversal: DFS and BFS
 - Topological Sort
-- Shortest Path Algorithms: Bellman-Ford and Dijkstra
+- Bellman-Ford and Dijkstra
 - Google's PageRank Algorithm
-- Critical Path Method
+- Critical Path
 - Strongest Path Problems
+- Basic Cryptography
 
 **Real-World Applications:**
 
 - Stock Span Problem
 - Arbitrage Detection
 - Data Compression
-- Paragraph Line Breaking (shortest paths application)
-- And many more practical examples
+- Paragraph Line Breaking
 
 **Course Materials:**
 
@@ -126,16 +136,18 @@ This course introduces algorithmic thinking and data structures through real-wor
 **Department of Business Administration, National and Kapodistrian University of Athens**  
 _2022–Present_
 
-An introductory course covering fundamental programming concepts using Python.
-Students learn computational thinking, problem-solving strategies,
-and develop practical coding skills from basic syntax to object-oriented programming.
+An introductory course covering basic programming concepts using Python.
+Students learn computational thinking,
+problem-solving strategies,
+and develop practical coding skills from
+basic syntax to object-oriented programming.
 
 **Topics Covered:**
 
 - Branching and Iteration
 - String Manipulation
-- Guess and Check Algorithms
-- Approximations and Bisection Methods
+- Guess and Check
+- Approximations and Bisection
 - Decomposition and Abstractions
 - Functions and Recursion
 - Data Structures: Tuples, Lists, and Dictionaries

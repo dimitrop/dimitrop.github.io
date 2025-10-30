@@ -51,4 +51,4 @@ I am interested in building software that is both reliable and secure.
 My research combines ideas from software engineering, computer security,
 programming languages, and systems.
 I believe in bridging the gap between theoretical advances and
-practical tools that can be readily adopted in real-world development.
+practical tools that can be adopted in real-world settings.

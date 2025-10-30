@@ -19,8 +19,9 @@ nav_order: 7
 - **AppStack: An agile Platform for Running Digital Public Services**, June 2024.  
   Athens University of Economics and Business, Department of Management Science and Technology, Athens, Greece.
 
-- **Operating Digital Public Services with OSS**, November 2022.  
-  FOSSCOM (Free and Open-Source Software Communities Meeting), University of Thessaly, Lamia, Greece.
+- **[Operating Digital Public Services with OSS](https://www.youtube.com/watch?v=I9ZQ4zvBvaw)**,
+  November 2022.  
+   FOSSCOM (Free and Open-Source Software Communities Meeting), University of Thessaly, Lamia, Greece.
 
 - **Application Security: Vulnerabilities and Countermeasures**, February 2020.  
   Hellenic Republic Ministry of Foreign Affairs, Informatics Directorate, Athens, Greece.
@@ -43,7 +44,7 @@ nav_order: 7
 - **How to Train your Browser: Preventing XSS Attacks Using Contextual Script Fingerprints**, November 2016.  
   National and Kapodistrian University of Athens, Department of Informatics and Telecommunications, Athens, Greece.
 
-- **[Ethics Collide: Security and Sisobedience over the Web](https://www.youtube.com/watch?v=SMMbYoZJESw)**, May 2016.  
+- **[Ethics Collide: Security and Disobedience over the Web](https://www.youtube.com/watch?v=SMMbYoZJESw)**, May 2016.  
   TEDx University of Piraeus, Athens, Greece.
 
 - **Malware and Cryptography**, January 2016.  

@@ -84,12 +84,10 @@ Quick Navigation
 
 - **[Attending the 46th Anniversary of the Restoration of
   Democracy in Greece](/assets/img/invitation.jpeg)**, July 2020.  
-  Representing GRNET at the anniversary of the
-  restoration of democracy that took place at
-  the Presidential Palace.
-  The invitation was sent to honor the organization for
-  its major role in Greece's digital transformation
-  during the COVID‑19 outbreak.
+  Represented GRNET at the Presidential Palace during the anniversary
+  of the restoration of democracy. The invitation was extended
+  in recognition of the organization's significant contribution
+  to Greece's digital transformation amid the COVID-19 pandemic.
 
 - **[LASER Workshop Scholarship](http://www.laser-workshop.org/)**,
   October 2013.  
