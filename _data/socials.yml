@@ -7,7 +7,6 @@
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-# dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: dimitris.i.mitropoulos@gmail.com # your email address
 # facebook_id: # your facebook id
@@ -24,12 +23,13 @@ email: dimitris.i.mitropoulos@gmail.com # your email address
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 scholar_userid: ryow8hIAAAAJ&hl # your Google Scholar ID
+dblp_url: https://dblp.org/pid/29/8061.html # your DBLP profile url
+orcid_id: 0000-0002-5061-9018 # your ORCID ID
 linkedin_username: dimitro # your LinkedIn user name
 x_username: d1m1tr0 # your X handle
 mastodon_username: mastodon.social/@dimitro # your mastodon instance+username in the format instance.tld/@username
 bluesky_url: https://bsky.app/profile/d1m1tr0.bsky.social # your bluesky URL
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
