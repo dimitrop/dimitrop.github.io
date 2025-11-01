@@ -30,15 +30,15 @@ Over the years I have been involved in several EU and US funded R&D projects.
   2019–2022.  
   Funded by the European Commission (HORIZON 2020, ref. 871932).
 
-- **[FASTEN: Fine-Grained Analysis of Software Ecosystems as Networks](https://www.fasten-project.eu/)**,
+- **[FASTEN: Fine-Grained Analysis of Software Ecosystems as Networks](https://cordis.europa.eu/project/id/825328/results)**,
   2019–2022.  
   Funded by the European Commission (HORIZON 2020, ref. 825328).
 
-- **[PRIViLEDGE: Privacy-Enhancing Cryptography in Distributed Ledgers](http://priviledge-project.eu/)**,
+- **[PRIViLEDGE: Privacy-Enhancing Cryptography in Distributed Ledgers](https://cordis.europa.eu/project/id/780477)**,
   2018–2021.  
   Funded by the European Commission (HORIZON 2020, ref. 780477).
 
-- **[CERTCOOP: Trans-European and Greek CERTs collaboration project](http://certcoop.eu/)**,
+- **[CERTCOOP: Trans-European and Greek CERTs collaboration project](https://www.certcoop.gr/)**,
   2017–2020.  
   Funded by the European Commission (CEF-TC-2016-3, ref. 2016-EL-IA-0123).
 
@@ -46,7 +46,7 @@ Over the years I have been involved in several EU and US funded R&D projects.
   2016–2019.  
   Funded by the European Commission (HORIZON 2020, ref. 653497).
 
-- **[TREDISEC: Trust-aware, Reliable and Distributed Information Security in the Cloud](http://www.tredisec.eu/)**,
+- **[TREDISEC: Trust-aware, Reliable and Distributed Information Security in the Cloud](https://cordis.europa.eu/project/id/644412)**,
   2016–2018.  
   Funded by the European Commission (HORIZON 2020, ref. 644412).
 
@@ -58,7 +58,7 @@ Over the years I have been involved in several EU and US funded R&D projects.
   2014–2015.  
   Funded by the Defense Advanced Research Projects Agency (DARPA, ref. FA8650-11-C-7190).
 
-- **[TRACER: Identifying Software Vulnerabilities and Securing Legacy Systems](http://www.tracer-project.gr/)**,
+- **[TRACER: Identifying Software Vulnerabilities and Securing Legacy Systems](https://www.tracer-project.eu/)**,
   2011–2014.  
   Funded by the Greek General Secretariat of Research and Technology (ref. 09ΣΥΝ-72-942).
 
