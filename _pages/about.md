@@ -55,4 +55,4 @@ I believe in bridging the gap between theoretical advances and
 practical tools that can be adopted in real-world settings.
 
 I have served on the program committees of several top-tier conferences,
-including CCS, ICSE, ESEC/FSE, ASE, PLDI, and OOPSLA.
+including CCS, ICSE, FSE, ASE, PLDI, and OOPSLA.
