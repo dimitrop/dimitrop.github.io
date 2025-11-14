@@ -35,14 +35,15 @@ I am an Associate Professor at the
 (NKUA) in the [Department of Business Administration](https://www.ba.uoa.gr/en/),
 and Head of the Reliability Engineering Directorate at the
 [National Infrastructures for Research and Technology](https://grnet.gr/en/) (GRNET),
-where I have led the design and implementation of advanced infrastructures
-supporting critical digital governance services.
+where I have led the design and implementation of [advanced infrastructures](https://www.usenix.org/publications/loginonline/appstack-agile-platform-running-digital-public-services)
+supporting critical digital governance services
+used by millions of Greek citizens.
 
 I received my Ph.D. in
 [Secure Software Development Technologies](https://thesis.ekt.gr/thesisBookReader/id/43152#page/1/mode/2up)
 from the [Athens University of Economics and Business](https://www.aueb.gr/en)
-in 2014 under the supervision of Professor [Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/),
-and subsequently worked as a Postdoctoral Researcher in the
+under the supervision of Professor [Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/)
+and worked as a Postdoctoral Researcher in the
 [Computer Science Department](https://www.cs.columbia.edu/) at
 [Columbia University](https://www.columbia.edu/) with Professor
 [Angelos Keromytis](https://angelosk.github.io/).
@@ -52,3 +53,6 @@ My research combines ideas from software engineering, computer security,
 programming languages, and systems.
 I believe in bridging the gap between theoretical advances and
 practical tools that can be adopted in real-world settings.
+
+I have served on the program committees of several top-tier conferences,
+including CCS, ICSE, ESEC/FSE, ASE, PLDI, and OOPSLA.

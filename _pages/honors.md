@@ -44,19 +44,21 @@ Quick Navigation
 - **[Distinguished Artifact Award](/assets/pdf/ICSE2021-award-certificate-AE.pdf)**,
   May 2021.  
   Our replication package for the paper
-  [Data-oriented differential testing of object-relational mapping systems](/assets/pdf/SCAMS21.pdf)
+  [Data-Oriented Differential Testing of Object-Relational Mapping Systems](/assets/pdf/SCAMS21.pdf)
   received a Distinguished Artifact Award at the
   43rd International Conference on Software Engineering (ICSE '21).
 
 - **[Best Data Showcase Award](/assets/img/msr18-award.jpg)**,
   May 2018.  
   Our replication package for the paper
-  [VulinOSS: A dataset of security vulnerabilities in open-source systems](https://2018.msrconf.org/event/msr-2018-data-showcase-papers-vulinoss-a-dataset-of-security-vulnerabilities-in-open-source-systems)
+  [VulinOSS: A Dataset of Security Vulnerabilities in Open-Source Systems](https://2018.msrconf.org/event/msr-2018-data-showcase-papers-vulinoss-a-dataset-of-security-vulnerabilities-in-open-source-systems)
   received a Distinguished Artifact Award at the
   15th International Conference on Mining Software Repositories (MSR '18).
 
 - **[Highly Commended Paper Award](http://www.emeraldinsight.com/doi/full/10.1108/imcs.2012.04620aaa.001)**, April 2012.  
-  Our paper "Countering code injection attacks: A unified approach" (Information Management and Computer Security, 19(3):177-194, 2011) received a Highly Commended Award from Emerald publishers as part of the Literati Network Awards for Excellence 2012.
+  Our paper [Countering Code Injection Attacks: A Unified Approach](https://www2.dmst.aueb.gr/dds/pubs/jrnl/2011-IMCS-CodeInjection/html/MKLS12.html)
+  (Information Management and Computer Security)
+  received a Highly Commended Award from Emerald publishers as part of the "Literati Network Awards for Excellence" 2012.
 
 <div style="width: 100%; height: 3px; background: linear-gradient(to right, transparent, var(--global-theme-color), transparent); margin: 3rem 0;"></div>
 

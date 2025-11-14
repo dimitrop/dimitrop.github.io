@@ -99,12 +99,12 @@ nav_order: 3
 - **[JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)** -
   Journal of Systems and Software
 - **[EMSE](https://link.springer.com/journal/10664)** - Empirical Software Engineering
-- **[IJIS](https://link.springer.com/journal/10207)** - International Journal of Information Security
 - **[IEEE Software](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52)**
 - **[TOPS](https://dl.acm.org/journal/tops)** - ACM Transactions on Privacy and Security
+- **[IJIS](https://link.springer.com/journal/10207)** - International Journal of Information Security
+- **[IETIS](https://ietresearch.onlinelibrary.wiley.com/journal/ietis)** - IET Information Security
 - **[CSUR](https://dl.acm.org/journal/csur)** - ACM Computing Surveys
 - **[IEEE Communication Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)**
-- **[IETIS](https://ietresearch.onlinelibrary.wiley.com/journal/ietis)** - IET Information Security
 
 <div style="width: 100%; height: 3px; background: linear-gradient(to right, transparent, var(--global-theme-color), transparent); margin: 3rem 0;"></div>
 
