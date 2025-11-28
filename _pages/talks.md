@@ -16,7 +16,7 @@ nav_order: 7
 - **Bloat Beneath Python's Scales: A Fine-Grained Inter-Project Dependency Analysis**, June 2024.  
   Software Systems Engineering Group (SSE) Seminar, University College London, UK.
 
-- **AppStack: An agile Platform for Running Digital Public Services**, June 2024.  
+- **AppStack: An Agile Platform for Running Digital Public Services**, June 2024.  
   Athens University of Economics and Business, Department of Management Science and Technology, Athens, Greece.
 
 - **[Operating Digital Public Services with OSS](https://www.youtube.com/watch?v=I9ZQ4zvBvaw)**,
@@ -50,7 +50,7 @@ nav_order: 7
 - **Malware and Cryptography**, January 2016.  
   University of Piraeus, Department of Informatics, Athens, Greece.
 
-- **Countering Code Injection attacks: A Unified Approach**, December 2012.  
+- **Countering Code Injection Attacks: A Unified Approach**, December 2012.  
   Hellenic Air Force School, Athens, Greece.
 
 - **Application Security: Vulnerabilities and Countermeasures**, April 2011.  
