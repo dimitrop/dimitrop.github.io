@@ -36,8 +36,8 @@ I am an Associate Professor at the
 and Head of the Reliability Engineering Directorate at the
 [National Infrastructures for Research and Technology](https://grnet.gr/en/) (GRNET),
 where I lead the design and implementation of
-advanced infrastructures supporting digital governance, academic,
-and research services used by millions of Greek citizens.
+advanced infrastructures supporting governmental
+and academic services used by millions of Greek citizens.
 
 I received my Ph.D. in
 [Secure Software Development Technologies](https://thesis.ekt.gr/thesisBookReader/id/43152#page/1/mode/2up)
