@@ -5,7 +5,7 @@ header:
 layout: about
 title: about
 permalink: /
-subtitle: <b>Assosciate Professor</b>, <a href="https://en.uoa.gr/">National and Kapodistrian University of Athens</a>. <b>Head of the Reliability Engineering Directorate</b>, <a href="https://grnet.gr/en/">GRNET</a>
+subtitle: <b>Associate Professor</b>, <a href="https://en.uoa.gr/">National and Kapodistrian University of Athens</a>. <b>Head of the Reliability Engineering Directorate</b>, <a href="https://grnet.gr/en/">GRNET</a>
 
 profile:
   align: right
