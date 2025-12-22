@@ -43,7 +43,7 @@ nav_order: 3
   of Software Engineering, Research Papers Track
 - **[ISSTA '25](https://conf.researchr.org/committee/issta-2025/issta-2025-papers-program-committee)** -
   The ACM SIGSOFT International Symposium on Software Testing and Analysis, Research Papers Track
-- **[ICSE '26](https://conf.researchr.org/committee/icse-2025/icse-2025-demonstrations-demonstrations)** -
+- **[ICSE '25](https://conf.researchr.org/committee/icse-2025/icse-2025-demonstrations-demonstrations)** -
   The IEEE/ACM International Conference on Software Engineering, Demonstrations Track
 - **[ASE '24](https://conf.researchr.org/committee/ase-2024/ase-2024-papers-program-committee)** -
   The IEEE/ACM International Conference on Automated Software Engineering, Research Papers Track
