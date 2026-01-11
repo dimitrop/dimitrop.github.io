@@ -18,13 +18,17 @@ Over the years I have been involved in several EU and US funded R&D projects.
 
 ## <span id="current">Current Projects</span>
 
-- **[SecOPERA: Secure Open-source softwarE and hardwaRe Adaptable framework](https://secopera.eu/)**,
-  2023–Present.  
-  Funded by the European Commission (HORIZON-CL3-2021-CS-01-02).
+- **[Smart Attica European Digital Innovation Hub](https://www.smartattica.eu/)**,
+  2025–Present.  
+  Funded by the European Commission (DIGITAL-2021-EDIH-INITIAL-01).
 
 <div style="width: 100%; height: 3px; background: linear-gradient(to right, transparent, var(--global-theme-color), transparent); margin: 3rem 0;"></div>
 
 ## <span id="past">Past Projects</span>
+
+- **[SecOPERA: Secure Open-source softwarE and hardwaRe Adaptable framework](https://secopera.eu/)**,
+  2023–Present.  
+  Funded by the European Commission (HORIZON-CL3-2021-CS-01-02).
 
 - **[eSSIF-Lab: European Self Sovereign Identity Framework Laboratory](https://cordis.europa.eu/project/id/871932)**,
   2019–2022.  
