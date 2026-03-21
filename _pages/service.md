@@ -32,6 +32,8 @@ nav_order: 3
 
 - **[ICSE '27](https://conf.researchr.org/track/icse-2027/icse-2027-research-track)** --
   The IEEE/ACM International Conference on Software Engineering, Research Track
+- **[RAID '26](https://raid2026.org/)** --
+  The International Symposium on Research in Attacks, Intrusions and Defenses
 - **[CCS '26](https://www.sigsac.org/ccs/CCS2026/index.html)** --
   The ACM Conference on Computer and Communications Security, Software Security Track
 - **[OOPSLA '26](https://conf.researchr.org/committee/splash-2026/splash-2026-research-papers-research-papers)** --
