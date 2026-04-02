@@ -5,6 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I was invited to speak at [SFHMMY 17](https://sfhmmy17.gr/),
-the largest student conference for
-electrical and computer engineering in Greece.
+I was invited to speak at the 17th
+[Electrical and Computer Engineering Student Conference of Greece](https://sfhmmy17.gr/).
