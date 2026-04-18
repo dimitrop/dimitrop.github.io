@@ -7,6 +7,9 @@ nav: true
 nav_order: 7
 ---
 
+- **AppStack: An Open Source Cloud Native Platform for Running Digital Public Services**, April 2026.  
+  Electrical and Computer Engineering Student Conference of Greece (ECESCON), Chania, Greece.
+
 - **An Introduction to Ethereum and Smart Contracts**, December 2024.  
   Athens University of Economics and Business, Department of Accounting and Finance, Athens, Greece.
 
