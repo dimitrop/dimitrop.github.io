@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve on the program committee for [ICSE '27](https://conf.researchr.org/home/icse-2027).
+I will serve on the program committee for [ICSE '27](https://conf.researchr.org/track/icse-2027/icse-2027-research-track).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve on the program committee for FSE '27.
+I will serve on the program committee for [FSE '27](https://conf.researchr.org/track/fse-2027/fse-2027-papers).

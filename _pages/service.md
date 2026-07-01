@@ -32,7 +32,7 @@ nav_order: 3
 
 - **[ICSE '27](https://conf.researchr.org/track/icse-2027/icse-2027-research-track)** --
   The IEEE/ACM International Conference on Software Engineering, Research Track
-- **FSE '27** --
+- **[FSE '27](https://conf.researchr.org/track/fse-2027/fse-2027-papers)** --
   The ACM Joint European Software Engineering Conference and Symposium on the Foundations
   of Software Engineering, Research Papers Track
 - **[RAID '26](https://raid2026.org/)** --
