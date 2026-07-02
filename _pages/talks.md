@@ -7,6 +7,9 @@ nav: true
 nav_order: 7
 ---
 
+- **The GRNET Security Blueprint: Safeguarding Public Services and Infrastructures at Scale**, June, 2026.
+  The SONIC Project Stakeholders Event, ADACOM, Athens, Greece.
+
 - **AppStack: An Open Source Cloud Native Platform for Running Digital Public Services**, April 2026.  
   Electrical and Computer Engineering Student Conference of Greece (ECESCON), Chania, Greece.
 
