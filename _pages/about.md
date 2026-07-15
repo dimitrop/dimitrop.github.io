@@ -5,7 +5,7 @@ header:
 layout: about
 title: about
 permalink: /
-subtitle: <b>Associate Professor</b>, <a href="https://en.uoa.gr/">National and Kapodistrian University of Athens</a>. <b>Head of the Reliability Engineering Directorate</b>, <a href="https://grnet.gr/en/">GRNET</a>
+subtitle: <b>Associate Professor</b>, <a href="https://en.uoa.gr/">National and Kapodistrian University of Athens</a><br><b>Head of the Reliability Engineering and Cybersecurity Directorate</b>, <a href="https://grnet.gr/en/">GRNET</a>
 
 profile:
   align: right
@@ -33,16 +33,16 @@ latest_posts:
 I am an Associate Professor at the
 [National and Kapodistrian University of Athens](https://www.uoa.gr)
 (NKUA) in the [Department of Business Administration](https://www.ba.uoa.gr/en/),
-and Head of the Reliability Engineering Directorate at the
+and Head of the Reliability Engineering and Cybersecurity Directorate at the
 [National Infrastructures for Research and Technology](https://grnet.gr/en/) (GRNET),
 where I lead the design and implementation of
 advanced infrastructures supporting governmental
 and academic services used by millions of Greek citizens.
 
-I received my Ph.D. in
+I earned my Ph.D. in
 [Secure Software Development Technologies](https://thesis.ekt.gr/thesisBookReader/id/43152#page/1/mode/2up)
-from the [Athens University of Economics and Business](https://www.aueb.gr/en)
-under the supervision of Professor [Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/)
+from the [Athens University of Economics and Business](https://www.aueb.gr/en),
+where I was advised by Professor [Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/)
 and worked as a Postdoctoral Researcher in the
 [Computer Science Department](https://www.cs.columbia.edu/) at
 [Columbia University](https://www.columbia.edu/) with Professor
