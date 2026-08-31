@@ -7,24 +7,52 @@ nav: true
 nav_order: 5
 ---
 
-<!-- Quick Navigation
+<!-- Quick Navigation -->
 <div class="projects-navigation" style="margin-bottom: 2rem; padding: 1rem; background-color: var(--global-card-bg-color); border-radius: 8px;">
   <strong>Jump to:</strong>
-  <span onclick="document.getElementById('current').scrollIntoView({behavior: 'smooth'})" style="cursor: pointer; color: var(--global-theme-color); margin: 0 0.5rem; text-decoration: underline;">Current Projects</span> |
-  <span onclick="document.getElementById('past').scrollIntoView({behavior: 'smooth'})" style="cursor: pointer; color: var(--global-theme-color); margin: 0 0.5rem; text-decoration: underline;">Past Projects</span>
-</div> -->
+  <span onclick="document.getElementById('leadership').scrollIntoView({behavior: 'smooth'})" style="cursor: pointer; color: var(--global-theme-color); margin: 0 0.5rem; text-decoration: underline;">Project Leadership</span> |
+  <span onclick="document.getElementById('participation').scrollIntoView({behavior: 'smooth'})" style="cursor: pointer; color: var(--global-theme-color); margin: 0 0.5rem; text-decoration: underline;">Other Project Participation</span>
+</div>
 
-Over the years I have been involved in several EU and US funded R&D projects.
+## <span id="leadership"><b>Project Leadership</b></span>
 
-## <span id="current">Current Projects</span>
+---
 
-- **[Smart Attica European Digital Innovation Hub](https://www.smartattica.eu/)**,
-  2025–Present.  
-  Funded by the European Commission (DIGITAL-2021-EDIH-INITIAL-01).
+### Current
+
+- **[SPHINX: Strengthening the Security and Privacy of Production Zero-Knowledge Systems](https://cordis.europa.eu/project/id/101282756)**,
+  2026–Present.  
+  Role: Supervisor.  
+  Marie Skłodowska-Curie Postdoctoral Fellowship.  
+  MSCA Fellow: [Stefanos Chaliasos](https://chaliasos.com/).
+
+### Completed
+
+- **[CERTCOOP: Trans-European and Greek CERTs Collaboration Project](https://www.certcoop.gr/)**,
+  2017–2020.  
+  Role: Principal Investigator.  
+  Funded by the European Commission
+  (CEF-TC-2016-3, ref. 2016-EL-IA-0123).
 
 <div style="width: 100%; height: 3px; background: linear-gradient(to right, transparent, var(--global-theme-color), transparent); margin: 3rem 0;"></div>
 
-## <span id="past">Past Projects</span>
+## <span id="participation"><b>Other Project Participation</b></span>
+
+---
+
+### Current
+
+- **[COPILOT: Enhancing Deep Tech Innovation and Entrepreneurship Capacities in Sustainable Energy
+  and Clean Technologies for a Long-lasting Institutional Change within European
+  HEIs](https://copilotproject.eu/)**,
+  2026–Present.  
+  Funded by the European Commission (EIT Higher Education Initiative (HEI) Call).
+
+### Completed
+
+- **[Smart Attica European Digital Innovation Hub](https://www.smartattica.eu/)**,
+  2025–2026.  
+  Funded by the European Commission (DIGITAL-2021-EDIH-INITIAL-01).
 
 - **[SecOPERA: Secure Open-source softwarE and hardwaRe Adaptable framework](https://secopera.eu/)**,
   2023–2025.  
