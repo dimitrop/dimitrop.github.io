@@ -70,10 +70,6 @@ nav_order: 5
   2018–2021.  
   Funded by the European Commission (HORIZON 2020, ref. 780477).
 
-- **[CERTCOOP: Trans-European and Greek CERTs collaboration project](https://www.certcoop.gr/)**,
-  2017–2020.  
-  Funded by the European Commission (CEF-TC-2016-3, ref. 2016-EL-IA-0123).
-
 - **[PANORAMIX: Privacy and Accountability in Networks via Optimized Randomized Mix-nets](https://panoramix-project.eu/)**,
   2016–2019.  
   Funded by the European Commission (HORIZON 2020, ref. 653497).
