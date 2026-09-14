@@ -30,7 +30,7 @@ nav_order: 5
 
 - **[CERTCOOP: Trans-European and Greek CERTs Collaboration Project](https://www.certcoop.gr/)**,
   2017–2020.  
-  Role: Principal Investigator.  
+  Role: Co-Principal Investigator (Co-PI).  
   Funded by the European Commission
   (CEF-TC-2016-3, ref. 2016-EL-IA-0123).
 
