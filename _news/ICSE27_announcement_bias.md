@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2026-10-21 15:59:00-0400
+inline: true
+related_posts: false
+---
+
+Our paper "When AI Agrees Too Much: Manipulating Automated Code Review via Bias Injection"
+has been accepted at [ICSE '27](https://conf.researchr.org/track/icse-2027/icse-2027-research-track).
