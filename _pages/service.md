@@ -30,6 +30,8 @@ nav_order: 3
 
 ## <span id="pc-member"><b>Program Committee Member</b></span>
 
+- **[CCS '27](https://www.sigsac.org/ccs/CCS2027/)** --
+  The ACM Conference on Computer and Communications Security, Software Security Track
 - **[PLDI '27](https://pldi27.sigplan.org/track/pldi-2027-papers)** --
   The ACM SIGPLAN Conference on Programming Language Design and Implementation,
   Research Papers Track
