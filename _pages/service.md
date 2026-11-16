@@ -126,6 +126,7 @@ nav_order: 3
   The 44th International Conference on Software Engineering (ICSE),
   Student Mentoring Workshop, Mentor
 - **[GSOC '17](https://summerofcode.withgoogle.com/archive/2017/projects/5469134313750528)** --
-The Google Summer of Code (GSoC) program.
-Supervising the implementation of a re-encryption mix-net
+  The Google Summer of Code (GSoC) program.
+  Supervising the implementation of a re-encryption mix-net
+
 <!-- Ref. number: 5469134313750528 -->

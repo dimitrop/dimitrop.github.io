@@ -27,7 +27,7 @@ nav_order: 7
 
 - **[Operating Digital Public Services with OSS](https://www.youtube.com/watch?v=I9ZQ4zvBvaw)**,
   November 2022.  
-   FOSSCOM (Free and Open-Source Software Communities Meeting), University of Thessaly, Lamia, Greece.
+  FOSSCOM (Free and Open-Source Software Communities Meeting), University of Thessaly, Lamia, Greece.
 
 - **Application Security: Vulnerabilities and Countermeasures**, February 2020.  
   Hellenic Republic Ministry of Foreign Affairs, Informatics Directorate, Athens, Greece.
