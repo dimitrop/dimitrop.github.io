@@ -10,10 +10,7 @@ Gemfile.lock
 assets/libs/
 node_modules/
 vendor
-<<<<<<< HEAD
-.idea*.swp
-.*.swp
-=======
 .idea
 .venv
->>>>>>> v0.16.3
+*.swp
+.*.swp
